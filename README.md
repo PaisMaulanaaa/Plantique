@@ -10,24 +10,27 @@
 ---
 
 
-## Penjelasan Aplikasi
-**Tabemono** adalah aplikasi resep makanan berbasis Android yang memungkinkan pengguna untuk:
-- Melihat berbagai resep masakan dari pengguna lain.
-- Menambahkan resep masakan buatan sendiri.
-- Membagikan resep kepada komunitas.
-- Memberikan like pada resep orang lain di halaman feed.
-- Menggunakan fitur AI untuk mendapatkan rekomendasi resep berdasarkan bahan makanan yang tersedia.
+# APK Plantique – Perawatan Tanaman Pintar
 
-Aplikasi ini dirancang untuk memudahkan semua orang, dari pemula hingga profesional, dalam menemukan dan berbagi inspirasi memasak.
+## Penjelasan Aplikasi
+**Plantique** adalah aplikasi Android yang membantu pengguna dalam merawat tanaman dengan lebih mudah dan cerdas. Aplikasi ini cocok digunakan oleh pemula hingga pecinta tanaman berpengalaman.
+
+Dengan Plantique, pengguna dapat:
+- Mendapatkan tips perawatan tanaman berdasarkan jenis tanaman.
+- Mendiagnosis masalah umum pada tanaman (daun menguning, layu, dsb).
+- Menerima rekomendasi pupuk dan nutrisi.
+- Mengetahui cara menyiram dan menanam yang benar.
+- Menggunakan fitur chatbot berbasis AI sederhana untuk tanya jawab seputar tanaman.
 
 ---
 
 ## Fitur Aplikasi
-- **Feed Resep**: Menampilkan daftar resep terbaru dari seluruh pengguna, lengkap dengan fitur like.
-- **Tambah Resep**: Form untuk menulis dan mempublikasikan resep baru.
-- **Bagikan Resep**: Fitur untuk membagikan resep ke sesama pengguna.
-- **AI Recommendation**: Masukkan bahan yang kamu miliki, AI akan menyarankan resep yang cocok.
-- **Detail Resep**: Melihat informasi bahan, langkah-langkah, dan tips memasak secara lengkap.
+- **Feed Tanaman**: Menampilkan berbagai postingan tentang tanaman, perawatan, dan pengalaman dari pengguna lain.
+- **Tambah Postingan**: Bagikan tips atau cerita perawatan tanaman milikmu sendiri.
+- **Edit Profil**: Ubah informasi pengguna dengan mudah.
+- **AI Chatbot**: Fitur tanya jawab otomatis tentang perawatan tanaman, pemupukan, hama, dan lainnya.
+- **Detail Tanaman**: Lihat informasi lengkap tentang tanaman tertentu dan cara merawatnya.
+
 
 ---
 
