@@ -48,26 +48,29 @@ Dengan Plantique, pengguna dapat:
 ## 📱 Tampilan Aplikasi
 
 ### 🔐 Halaman Login  
-![Login](https://github.com/user-attachments/assets/0510e440-4a9c-4295-8b7e-9f34d2980ebe)
+![image](https://github.com/user-attachments/assets/294d1cba-f1b5-4d29-9413-800d4d9994a8)
+
 
 ---
 
 ### 📝 Halaman Register  
-![Register](https://github.com/user-attachments/assets/88336fa8-ab07-4033-b43f-2a35e913a760)
+![image](https://github.com/user-attachments/assets/15a91145-f2e9-41ac-97a2-9d6234b0ddc3)
+
 
 ---
 
 ### 🏠 Halaman Home  
-![Home](https://github.com/user-attachments/assets/a536cc43-4474-4d6e-b93e-896689570afd)
+![image](https://github.com/user-attachments/assets/0af2b41b-0953-417b-8047-2ccefe5df1b9)
+
 
 ---
 
-### 🍲 Halaman Feed Resep  
+### 🍲 Halaman Feed Plantique
 ![Feed Resep](https://github.com/user-attachments/assets/a230113b-2ea9-4b4a-ae2a-50cf169517f1)
 
 ---
 
-### 📋 Halaman Detail Resep  
+### 📋 Halaman Detail Plantique  
 ![Detail Resep](https://github.com/user-attachments/assets/9b90e571-0b7a-4628-b493-cdfa9619f1d1)
 
 ---
