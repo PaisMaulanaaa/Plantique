@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "865395086629",
+    "project_id": "plantique-22b12",
+    "storage_bucket": "plantique-22b12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865395086629:android:fdec2185fe7eb16087b6cc",
+        "android_client_info": {
+          "package_name": "com.example.plantique"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGTMpYf7PVo7hSogUGuLNltT_YFtjkJjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865395086629:android:eb7585294e0105f187b6cc",
+        "android_client_info": {
+          "package_name": "com.package.palntique"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGTMpYf7PVo7hSogUGuLNltT_YFtjkJjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26A69A</color>
+    <color name="colorPrimaryDark">#00897B</color>
+    <color name="colorAccent">#8BC34A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="green">#4CAF50</color>
+
+    <!-- Tambahkan warna-warna yang hilang -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <!-- Warna Kuning -->
+    <color name="yellow_primary">#FFC107</color>
+    <color name="yellow_dark">#FFA000</color>
+    <color name="yellow_light">#FFECB3</color>
+
+    <!-- Warna Biru -->
+    <color name="blue_primary">#2196F3</color>
+    <color name="blue_dark">#1976D2</color>
+    <color name="blue_light">#BBDEFB</color>
+
+    <color name="purple_primary">#9C27B0</color>
+    <color name="brown">#795548</color>
+    <color name="red">#F44336</color>
+
+    <color name="light_green">#8BC34A</color>
+    <color name="light_gray">#DDDDDD</color>
+
+    <color name="textColor">#333333</color>
+    <color name="backgroundColor">#f9f9f9</color>
+    <color name="suggestionChipBackground">#E0F2F1</color>
+
+        <!-- Warna custom untuk aplikasi Plantique -->
+        <color name="primary">#4CAF50</color>
+        <color name="primary_dark">#388E3C</color>
+        <color name="primary_light">#C8E6C9</color>
+        <color name="accent">#8BC34A</color>
+
+        <!-- Warna teks -->
+        <color name="text_primary">#212121</color>
+        <color name="text_secondary">#757575</color>
+
+        <!-- Warna background -->
+        <color name="background">#F5F5F5</color>
+        <color name="card_background">#FFFFFF</color>
+
+        <!-- Warna utility -->
+        <color name="divider">#BDBDBD</color>
+        <color name="icon_tint">#757575</color>
+        <color name="error">#F44336</color>
+    </resources>
