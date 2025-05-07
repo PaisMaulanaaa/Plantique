@@ -1,4 +1,4 @@
-# Tabemono 🍽️
+# Plantique
 
 ## Anggota Kelompok
 | Nama | NIM |
