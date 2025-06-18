@@ -41,33 +41,40 @@ Dengan **Plantique**, pengguna bisa:
 
 ## 📱 Tampilan Aplikasi
 
-### 🔐 Halaman Login  
-![Login](https://i.ibb.co/BKqcd489/Whats-App-Image-2025-06-17-at-11-05-13.jpg)
+## 📱 Tampilan Aplikasi
 
----
+### 🔐 Halaman Login
+![Whats-App-Image-2025-06-17-at-11-05-16-1](https://i.ibb.co/LhnYbQ43/Whats-App-Image-2025-06-17-at-11-05-16-1.jpg)
 
-### 📝 Halaman Register  
-![Register](https://i.ibb.co/TqWKHZ0f/Whats-App-Image-2025-06-17-at-11-05-14-1.jpg)
+### 📝 Halaman Register
+![Whats-App-Image-2025-06-17-at-11-05-16-2](https://i.ibb.co/HphNr0PS/Whats-App-Image-2025-06-17-at-11-05-16-2.jpg)
 
----
+### 🏠 Halaman Home
+![Whats-App-Image-2025-06-17-at-11-05-16-3](https://i.ibb.co/qYtGHkCT/Whats-App-Image-2025-06-17-at-11-05-16-3.jpg)
 
-### 🏠 Halaman Home  
-![Home](https://i.ibb.co/0VsYDzqD/Whats-App-Image-2025-06-17-at-11-05-15-3.jpg)
+### 📄 Halaman Detail Tanaman
+![Whats-App-Image-2025-06-17-at-11-05-16-4](https://i.ibb.co/1JX5NLNT/Whats-App-Image-2025-06-17-at-11-05-16-4.jpg)
 
----
+### ➕ Halaman Tambah Tanaman
+![Whats-App-Image-2025-06-17-at-11-05-16-5](https://i.ibb.co/Swn1DHfM/Whats-App-Image-2025-06-17-at-11-05-16-5.jpg)
 
-### 📋 Halaman Detail Tanaman  
-![Detail Tanaman](https://i.ibb.co/VYSh0bwz/Whats-App-Image-2025-06-17-at-11-05-15-1.jpg)
+### 📋 Halaman List Tips
+![Whats-App-Image-2025-06-17-at-11-05-16-6](https://i.ibb.co/CKnzZ1gh/Whats-App-Image-2025-06-17-at-11-05-16-6.jpg)
 
----
+### 📂 Halaman Detail Tips
+![Whats-App-Image-2025-06-17-at-11-05-16-7](https://i.ibb.co/dJmkWHBW/Whats-App-Image-2025-06-17-at-11-05-16-7.jpg)
 
-### ➕ Halaman Tambah Tanaman  
-![Tambah Tanaman](https://i.ibb.co/604mxnzg/Whats-App-Image-2025-06-17-at-11-05-15-2.jpg)
+### 🛠️ Halaman Edit Tanaman
+![Whats-App-Image-2025-06-17-at-11-05-16-8](https://i.ibb.co/N2xjzG3G/Whats-App-Image-2025-06-17-at-11-05-16-8.jpg)
 
----
+### 🧾 Halaman Edit Tips
+![Whats-App-Image-2025-06-17-at-11-05-16-9](https://i.ibb.co/ynV0jrKN/Whats-App-Image-2025-06-17-at-11-05-16-9.jpg)
 
-### 🤖 Halaman Konsultasi AI  
-![AI Konsultasi](https://i.ibb.co/b5tZhKgw/Whats-App-Image-2025-06-17-at-11-05-17.jpg)
+### ❌ Halaman Konfirmasi Hapus
+![Whats-App-Image-2025-06-17-at-11-05-16-10](https://i.ibb.co/x8zZ7Lwk/Whats-App-Image-2025-06-17-at-11-05-16-10.jpg)
+
+### ✅ Notifikasi Berhasil
+![Whats-App-Image-2025-06-17-at-11-05-16-11](https://i.ibb.co/9HPLXr9K/Whats-App-Image-2025-06-17-at-11-05-16-11.jpg)
 
 ---
 
