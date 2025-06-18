@@ -79,4 +79,4 @@ Dengan **Plantique**, pengguna bisa:
 ## Link Project
 - **Repository GitHub**: [Plantique App - GitHub](https://github.com/PaisMaulanaaa/Plantique)
 - **Trello SCRUM Board**: [Plantique - Trello](https://trello.com/b/t2hHKd97/plantique)
-- **Website**: [Plantique Web]() = web nya menyusul pak
+- **Website**: [Plantique Web](https://tanamora.vercel.app/)
