@@ -31,13 +31,10 @@ Dengan **Plantique**, pengguna bisa:
 ---
 
 ## Storyboard Aplikasi  
-> *(Ganti URL gambar di bawah ini dengan storyboard aplikasi Plantique milikmu)*
-
+> *(Ganti URL storyboard sesuai proyek jika ada)*  
 ![Storyboard](https://i.ibb.co.com/BFXBs4Y/Whats-App-Image-2025-05-07-at-18-37-00.jpg)
 ![Storyboard](https://i.ibb.co.com/pcnvLrG/Cuplikan-layar-2025-05-07-182727.png)
 ![Storyboard](https://i.ibb.co.com/YFSCpgXG/Whats-App-Image-2025-05-07-at-18-36-29.jpg)
-
-![Login](https://ibb.co/LhnYbQ43)
 
 ---
 
@@ -53,7 +50,7 @@ Dengan **Plantique**, pengguna bisa:
 
 ---
 
-### 🏠 Halaman Home  
+### 📱 Halaman Beranda (Home)  
 ![Home](https://i.ibb.co/0VsYDzqD/Whats-App-Image-2025-06-17-at-11-05-15-3.jpg)
 
 ---
@@ -76,4 +73,4 @@ Dengan **Plantique**, pengguna bisa:
 ## Link Project
 - **Repository GitHub**: [Plantique App - GitHub](https://github.com/PaisMaulanaaa/Plantique)
 - **Trello SCRUM Board**: [Plantique - Trello](https://trello.com/b/t2hHKd97/plantique)
-- **Website**: [Plantique Web]() = web nya menyusul pak
+- **Website**: [Plantique Web]() <!-- Website menyusul -->
