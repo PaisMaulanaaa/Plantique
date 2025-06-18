@@ -31,17 +31,18 @@ Dengan **Plantique**, pengguna bisa:
 ---
 
 ## Storyboard Aplikasi  
-> *(Ganti URL storyboard sesuai proyek jika ada)*  
-![Storyboard](https://i.ibb.co.com/BFXBs4Y/Whats-App-Image-2025-05-07-at-18-37-00.jpg)
-![Storyboard](https://i.ibb.co.com/pcnvLrG/Cuplikan-layar-2025-05-07-182727.png)
-![Storyboard](https://i.ibb.co.com/YFSCpgXG/Whats-App-Image-2025-05-07-at-18-36-29.jpg)
+> *(Ganti URL gambar di bawah ini dengan storyboard aplikasi Plantique milikmu)*
+
+![Storyboard 1](https://i.ibb.co/BFXBs4Y/Whats-App-Image-2025-05-07-at-18-37-00.jpg)  
+![Storyboard 2](https://i.ibb.co/pcnvLrG/Cuplikan-layar-2025-05-07-182727.png)  
+![Storyboard 3](https://i.ibb.co/YFSCpgXG/Whats-App-Image-2025-05-07-at-18-36-29.jpg)
 
 ---
 
 ## 📱 Tampilan Aplikasi
 
 ### 🔐 Halaman Login  
-![Login](https://i.ibb.co/KzskgXgW/Whats-App-Image-2025-06-17-at-11-05-14.jpg)
+![Login](https://i.ibb.co/BKqcd489/Whats-App-Image-2025-06-17-at-11-05-13.jpg)
 
 ---
 
@@ -50,7 +51,7 @@ Dengan **Plantique**, pengguna bisa:
 
 ---
 
-### 📱 Halaman Beranda (Home)  
+### 🏠 Halaman Home  
 ![Home](https://i.ibb.co/0VsYDzqD/Whats-App-Image-2025-06-17-at-11-05-15-3.jpg)
 
 ---
@@ -73,4 +74,4 @@ Dengan **Plantique**, pengguna bisa:
 ## Link Project
 - **Repository GitHub**: [Plantique App - GitHub](https://github.com/PaisMaulanaaa/Plantique)
 - **Trello SCRUM Board**: [Plantique - Trello](https://trello.com/b/t2hHKd97/plantique)
-- **Website**: [Plantique Web]() <!-- Website menyusul -->
+- **Website**: [Plantique Web]() = web nya menyusul pak
