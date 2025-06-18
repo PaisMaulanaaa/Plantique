@@ -44,32 +44,32 @@ Dengan **Plantique**, pengguna bisa:
 ## 📱 Tampilan Aplikasi
 
 ### 🔐 Halaman Login  
-![Login](https://i.ibb.co.com/0Rj2kmgW/Whats-App-Image-2025-05-07-at-18-43-54-1.jpg)
+![Login](https://i.ibb.co/KzskgXgW/Whats-App-Image-2025-06-17-at-11-05-14.jpg)
 
 ---
 
 ### 📝 Halaman Register  
-![Register](https://i.ibb.co.com/mrXJt87d/Whats-App-Image-2025-05-07-at-18-43-54.jpg)
+![Register](https://i.ibb.co/TqWKHZ0f/Whats-App-Image-2025-06-17-at-11-05-14-1.jpg)
 
 ---
 
 ### 🏠 Halaman Home  
-![Home](https://i.ibb.co.com/Hffxb1yZ/Whats-App-Image-2025-05-07-at-18-43-58.jpg)
+![Home](https://i.ibb.co/0VsYDzqD/Whats-App-Image-2025-06-17-at-11-05-15-3.jpg)
 
 ---
 
 ### 📋 Halaman Detail Tanaman  
-![Detail Tanaman](https://i.ibb.co.com/jvW1xpFc/7896.png)
+![Detail Tanaman](https://i.ibb.co/VYSh0bwz/Whats-App-Image-2025-06-17-at-11-05-15-1.jpg)
 
 ---
 
 ### ➕ Halaman Tambah Tanaman  
-![Tambah Tanaman](http://i.ibb.co.com/ksjryHSj/159.png)
+![Tambah Tanaman](https://i.ibb.co/604mxnzg/Whats-App-Image-2025-06-17-at-11-05-15-2.jpg)
 
 ---
 
 ### 🤖 Halaman Konsultasi AI  
-![AI Konsultasi](https://i.ibb.co.com/zTH2Sc95/Cuplikan-layar-2025-05-07-183855.png)
+![AI Konsultasi](https://i.ibb.co/b5tZhKgw/Whats-App-Image-2025-06-17-at-11-05-17.jpg)
 
 ---
 
