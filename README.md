@@ -43,60 +43,59 @@ Dengan **Plantique**, pengguna bisa:
 
 ## 📱 Tampilan Aplikasi
 
-## 📱 Tampilan Aplikasi
-
 ### 🔐 Halaman Login  
-![Whats-App-Image-2025-06-17-at-11-05-16-1](https://i.ibb.co/PZtxHdJ/Whats-App-Image-2025-06-17-at-11-05-16-1.jpg)
+![Login](https://pixeldrain.com/api/file/5cPcLQJo)
 
 ---
 
 ### 📝 Halaman Register  
-![Whats-App-Image-2025-06-17-at-11-05-16-2](https://i.ibb.co/Mn0k6sb/Whats-App-Image-2025-06-17-at-11-05-16-2.jpg)
+![Register](https://pixeldrain.com/api/file/ijaDzjn1)
+
+---
+
+### 🧾 Halaman Tambahan  
+![Halaman Tambahan](https://pixeldrain.com/api/file/gHaVqNaz)
 
 ---
 
 ### 🏠 Halaman Home  
-![Whats-App-Image-2025-06-17-at-11-05-16-3](https://i.ibb.co/X2j6M4R/Whats-App-Image-2025-06-17-at-11-05-16-3.jpg)
+![Home](https://pixeldrain.com/api/file/W844qdrv)
 
 ---
 
-### 📄 Halaman Detail Tanaman  
-![Whats-App-Image-2025-06-17-at-11-05-16-4](https://i.ibb.co/zZgqBBR/Whats-App-Image-2025-06-17-at-11-05-16-4.jpg)
+### 📋 Halaman Detail Tanaman  
+![Detail Tanaman](https://pixeldrain.com/api/file/8ouEWy4p)
 
 ---
 
 ### ➕ Halaman Tambah Tanaman  
-![Whats-App-Image-2025-06-17-at-11-05-16-5](https://i.ibb.co/tHx2BYk/Whats-App-Image-2025-06-17-at-11-05-16-5.jpg)
+![Tambah Tanaman](https://pixeldrain.com/api/file/aubKof5W)
 
 ---
 
-### 📋 Halaman List Tips  
-![Whats-App-Image-2025-06-17-at-11-05-16-6](https://i.ibb.co/BgYrjDF/Whats-App-Image-2025-06-17-at-11-05-16-6.jpg)
+### 🧾 Halaman Tips  
+![Tips](https://pixeldrain.com/api/file/WyVs2CsE)
 
 ---
 
-### 📂 Halaman Detail Tips  
-![Whats-App-Image-2025-06-17-at-11-05-16-7](https://i.ibb.co/ZKwfnDr/Whats-App-Image-2025-06-17-at-11-05-16-7.jpg)
+### 📄 Halaman Detail Tips  
+![Detail Tips](https://pixeldrain.com/api/file/uzjhaYci)
 
 ---
 
-### 🛠️ Halaman Edit Tanaman  
-![Whats-App-Image-2025-06-17-at-11-05-16-8](https://i.ibb.co/2NYrFc4/Whats-App-Image-2025-06-17-at-11-05-16-8.jpg)
+### ✏️ Halaman Edit  
+![Edit](https://pixeldrain.com/api/file/74gFcpCx)
 
 ---
 
-### 🧾 Halaman Edit Tips  
-![Whats-App-Image-2025-06-17-at-11-05-16-9](https://i.ibb.co/wKHrsdc/Whats-App-Image-2025-06-17-at-11-05-16-9.jpg)
+### ❌ Konfirmasi Hapus  
+![Konfirmasi](https://pixeldrain.com/api/file/sxxgtrXC)
 
 ---
 
-### ❌ Halaman Konfirmasi Hapus  
-![Whats-App-Image-2025-06-17-at-11-05-16-10](https://i.ibb.co/WfT9JcD/Whats-App-Image-2025-06-17-at-11-05-16-10.jpg)
+### 🤖 Halaman Konsultasi AI  
+![AI Konsultasi](https://pixeldrain.com/api/file/UkaVmtC4)
 
----
-
-### ✅ Notifikasi Berhasil  
-![Whats-App-Image-2025-06-17-at-11-05-16-11](https://i.ibb.co/n6R3b9X/Whats-App-Image-2025-06-17-at-11-05-16-11.jpg)
 
 ---
 
