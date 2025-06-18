@@ -30,6 +30,15 @@ Dengan **Plantique**, pengguna bisa:
 
 ---
 
+## Storyboard Aplikasi  
+> *(Ganti URL gambar di bawah ini dengan storyboard aplikasi Plantique milikmu)*
+
+![Storyboard](https://i.ibb.co.com/BFXBs4Y/Whats-App-Image-2025-05-07-at-18-37-00.jpg)
+![Storyboard](https://i.ibb.co.com/pcnvLrG/Cuplikan-layar-2025-05-07-182727.png)
+![Storyboard](https://i.ibb.co.com/YFSCpgXG/Whats-App-Image-2025-05-07-at-18-36-29.jpg)
+
+---
+
 ## 📱 Tampilan Aplikasi
 
 <h4>🔐 Halaman Login</h4>
