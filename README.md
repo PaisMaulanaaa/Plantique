@@ -41,37 +41,37 @@ Dengan **Plantique**, pengguna bisa:
 
 ## 📱 Tampilan Aplikasi
 
-<h4>🔐 Halaman Login</h4>
+<h4> Halaman Splash</h4>
 <img src="https://pixeldrain.com/api/file/5cPcLQJo" alt="Login" width="300" />
 
-<h4>📝 Halaman Register</h4>
+<h4> Halaman Register</h4>
 <img src="https://pixeldrain.com/api/file/ijaDzjn1" alt="Register" width="300" />
 
-<h4>📋 Halaman Tambahan</h4>
+<h4> Halaman Lupa Sandi</h4>
 <img src="https://pixeldrain.com/api/file/gHaVqNaz" alt="Halaman Tambahan" width="300" />
 
-<h4>🏠 Halaman Home</h4>
+<h4> Halaman Login</h4>
 <img src="https://pixeldrain.com/api/file/W844qdrv" alt="Home" width="300" />
 
-<h4>📋 Halaman Detail Tanaman</h4>
+<h4> Halaman Explore</h4>
 <img src="https://pixeldrain.com/api/file/8ouEWy4p" alt="Detail Tanaman" width="300" />
 
-<h4>➕ Halaman Tambah Tanaman</h4>
+<h4> Halaman Detail Tanaman</h4>
 <img src="https://pixeldrain.com/api/file/aubKof5W" alt="Tambah Tanaman" width="300" />
 
-<h4>📄 Halaman Tips</h4>
+<h4> Halaman Tambah Tanaman</h4>
 <img src="https://pixeldrain.com/api/file/WyVs2CsE" alt="Tips" width="300" />
 
-<h4>📄 Halaman Detail Tips</h4>
+<h4> Halaman Home</h4>
 <img src="https://pixeldrain.com/api/file/uzjhaYci" alt="Detail Tips" width="300" />
 
-<h4>✏️ Halaman Edit</h4>
+<h4> Halaman Profile</h4>
 <img src="https://pixeldrain.com/api/file/74gFcpCx" alt="Edit" width="300" />
 
-<h4>❌ Konfirmasi Hapus</h4>
+<h4> Konfirmasi Konsultasi AI</h4>
 <img src="https://pixeldrain.com/api/file/sxxgtrXC" alt="Konfirmasi" width="300" />
 
-<h4>🤖 Halaman Konsultasi AI</h4>
+<h4> Halaman Edit Profile</h4>
 <img src="https://pixeldrain.com/api/file/UkaVmtC4" alt="AI Konsultasi" width="300" />
 
 ---
