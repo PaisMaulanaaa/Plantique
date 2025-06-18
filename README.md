@@ -43,38 +43,60 @@ Dengan **Plantique**, pengguna bisa:
 
 ## 📱 Tampilan Aplikasi
 
-### 🔐 Halaman Login
-![Whats-App-Image-2025-06-17-at-11-05-16-1](https://i.ibb.co/LhnYbQ43/Whats-App-Image-2025-06-17-at-11-05-16-1.jpg)
+## 📱 Tampilan Aplikasi
 
-### 📝 Halaman Register
-![Whats-App-Image-2025-06-17-at-11-05-16-2](https://i.ibb.co/HphNr0PS/Whats-App-Image-2025-06-17-at-11-05-16-2.jpg)
+### 🔐 Halaman Login  
+![Whats-App-Image-2025-06-17-at-11-05-16-1](https://i.ibb.co/PZtxHdJ/Whats-App-Image-2025-06-17-at-11-05-16-1.jpg)
 
-### 🏠 Halaman Home
-![Whats-App-Image-2025-06-17-at-11-05-16-3](https://i.ibb.co/qYtGHkCT/Whats-App-Image-2025-06-17-at-11-05-16-3.jpg)
+---
 
-### 📄 Halaman Detail Tanaman
-![Whats-App-Image-2025-06-17-at-11-05-16-4](https://i.ibb.co/1JX5NLNT/Whats-App-Image-2025-06-17-at-11-05-16-4.jpg)
+### 📝 Halaman Register  
+![Whats-App-Image-2025-06-17-at-11-05-16-2](https://i.ibb.co/Mn0k6sb/Whats-App-Image-2025-06-17-at-11-05-16-2.jpg)
 
-### ➕ Halaman Tambah Tanaman
-![Whats-App-Image-2025-06-17-at-11-05-16-5](https://i.ibb.co/Swn1DHfM/Whats-App-Image-2025-06-17-at-11-05-16-5.jpg)
+---
 
-### 📋 Halaman List Tips
-![Whats-App-Image-2025-06-17-at-11-05-16-6](https://i.ibb.co/CKnzZ1gh/Whats-App-Image-2025-06-17-at-11-05-16-6.jpg)
+### 🏠 Halaman Home  
+![Whats-App-Image-2025-06-17-at-11-05-16-3](https://i.ibb.co/X2j6M4R/Whats-App-Image-2025-06-17-at-11-05-16-3.jpg)
 
-### 📂 Halaman Detail Tips
-![Whats-App-Image-2025-06-17-at-11-05-16-7](https://i.ibb.co/dJmkWHBW/Whats-App-Image-2025-06-17-at-11-05-16-7.jpg)
+---
 
-### 🛠️ Halaman Edit Tanaman
-![Whats-App-Image-2025-06-17-at-11-05-16-8](https://i.ibb.co/N2xjzG3G/Whats-App-Image-2025-06-17-at-11-05-16-8.jpg)
+### 📄 Halaman Detail Tanaman  
+![Whats-App-Image-2025-06-17-at-11-05-16-4](https://i.ibb.co/zZgqBBR/Whats-App-Image-2025-06-17-at-11-05-16-4.jpg)
 
-### 🧾 Halaman Edit Tips
-![Whats-App-Image-2025-06-17-at-11-05-16-9](https://i.ibb.co/ynV0jrKN/Whats-App-Image-2025-06-17-at-11-05-16-9.jpg)
+---
 
-### ❌ Halaman Konfirmasi Hapus
-![Whats-App-Image-2025-06-17-at-11-05-16-10](https://i.ibb.co/x8zZ7Lwk/Whats-App-Image-2025-06-17-at-11-05-16-10.jpg)
+### ➕ Halaman Tambah Tanaman  
+![Whats-App-Image-2025-06-17-at-11-05-16-5](https://i.ibb.co/tHx2BYk/Whats-App-Image-2025-06-17-at-11-05-16-5.jpg)
 
-### ✅ Notifikasi Berhasil
-![Whats-App-Image-2025-06-17-at-11-05-16-11](https://i.ibb.co/9HPLXr9K/Whats-App-Image-2025-06-17-at-11-05-16-11.jpg)
+---
+
+### 📋 Halaman List Tips  
+![Whats-App-Image-2025-06-17-at-11-05-16-6](https://i.ibb.co/BgYrjDF/Whats-App-Image-2025-06-17-at-11-05-16-6.jpg)
+
+---
+
+### 📂 Halaman Detail Tips  
+![Whats-App-Image-2025-06-17-at-11-05-16-7](https://i.ibb.co/ZKwfnDr/Whats-App-Image-2025-06-17-at-11-05-16-7.jpg)
+
+---
+
+### 🛠️ Halaman Edit Tanaman  
+![Whats-App-Image-2025-06-17-at-11-05-16-8](https://i.ibb.co/2NYrFc4/Whats-App-Image-2025-06-17-at-11-05-16-8.jpg)
+
+---
+
+### 🧾 Halaman Edit Tips  
+![Whats-App-Image-2025-06-17-at-11-05-16-9](https://i.ibb.co/wKHrsdc/Whats-App-Image-2025-06-17-at-11-05-16-9.jpg)
+
+---
+
+### ❌ Halaman Konfirmasi Hapus  
+![Whats-App-Image-2025-06-17-at-11-05-16-10](https://i.ibb.co/WfT9JcD/Whats-App-Image-2025-06-17-at-11-05-16-10.jpg)
+
+---
+
+### ✅ Notifikasi Berhasil  
+![Whats-App-Image-2025-06-17-at-11-05-16-11](https://i.ibb.co/n6R3b9X/Whats-App-Image-2025-06-17-at-11-05-16-11.jpg)
 
 ---
 
