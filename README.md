@@ -30,72 +30,40 @@ Dengan **Plantique**, pengguna bisa:
 
 ---
 
-## Storyboard Aplikasi  
-> *(Ganti URL gambar di bawah ini dengan storyboard aplikasi Plantique milikmu)*
-
-![Storyboard 1](https://i.ibb.co/BFXBs4Y/Whats-App-Image-2025-05-07-at-18-37-00.jpg)  
-![Storyboard 2](https://i.ibb.co/pcnvLrG/Cuplikan-layar-2025-05-07-182727.png)  
-![Storyboard 3](https://i.ibb.co/YFSCpgXG/Whats-App-Image-2025-05-07-at-18-36-29.jpg)
-
----
-
 ## 📱 Tampilan Aplikasi
 
-## 📱 Tampilan Aplikasi
+<h4>🔐 Halaman Login</h4>
+<img src="https://pixeldrain.com/api/file/5cPcLQJo" alt="Login" width="300" />
 
-### 🔐 Halaman Login  
-![Login](https://pixeldrain.com/api/file/5cPcLQJo)
+<h4>📝 Halaman Register</h4>
+<img src="https://pixeldrain.com/api/file/ijaDzjn1" alt="Register" width="300" />
 
----
+<h4>📋 Halaman Tambahan</h4>
+<img src="https://pixeldrain.com/api/file/gHaVqNaz" alt="Halaman Tambahan" width="300" />
 
-### 📝 Halaman Register  
-![Register](https://pixeldrain.com/api/file/ijaDzjn1)
+<h4>🏠 Halaman Home</h4>
+<img src="https://pixeldrain.com/api/file/W844qdrv" alt="Home" width="300" />
 
----
+<h4>📋 Halaman Detail Tanaman</h4>
+<img src="https://pixeldrain.com/api/file/8ouEWy4p" alt="Detail Tanaman" width="300" />
 
-### 🧾 Halaman Tambahan  
-![Halaman Tambahan](https://pixeldrain.com/api/file/gHaVqNaz)
+<h4>➕ Halaman Tambah Tanaman</h4>
+<img src="https://pixeldrain.com/api/file/aubKof5W" alt="Tambah Tanaman" width="300" />
 
----
+<h4>📄 Halaman Tips</h4>
+<img src="https://pixeldrain.com/api/file/WyVs2CsE" alt="Tips" width="300" />
 
-### 🏠 Halaman Home  
-![Home](https://pixeldrain.com/api/file/W844qdrv)
+<h4>📄 Halaman Detail Tips</h4>
+<img src="https://pixeldrain.com/api/file/uzjhaYci" alt="Detail Tips" width="300" />
 
----
+<h4>✏️ Halaman Edit</h4>
+<img src="https://pixeldrain.com/api/file/74gFcpCx" alt="Edit" width="300" />
 
-### 📋 Halaman Detail Tanaman  
-![Detail Tanaman](https://pixeldrain.com/api/file/8ouEWy4p)
+<h4>❌ Konfirmasi Hapus</h4>
+<img src="https://pixeldrain.com/api/file/sxxgtrXC" alt="Konfirmasi" width="300" />
 
----
-
-### ➕ Halaman Tambah Tanaman  
-![Tambah Tanaman](https://pixeldrain.com/api/file/aubKof5W)
-
----
-
-### 🧾 Halaman Tips  
-![Tips](https://pixeldrain.com/api/file/WyVs2CsE)
-
----
-
-### 📄 Halaman Detail Tips  
-![Detail Tips](https://pixeldrain.com/api/file/uzjhaYci)
-
----
-
-### ✏️ Halaman Edit  
-![Edit](https://pixeldrain.com/api/file/74gFcpCx)
-
----
-
-### ❌ Konfirmasi Hapus  
-![Konfirmasi](https://pixeldrain.com/api/file/sxxgtrXC)
-
----
-
-### 🤖 Halaman Konsultasi AI  
-![AI Konsultasi](https://pixeldrain.com/api/file/UkaVmtC4)
-
+<h4>🤖 Halaman Konsultasi AI</h4>
+<img src="https://pixeldrain.com/api/file/UkaVmtC4" alt="AI Konsultasi" width="300" />
 
 ---
 
